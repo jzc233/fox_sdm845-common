@@ -17,7 +17,7 @@
 # 	Please maintain this if you use this script or any part of it
 #
 OF_STATUS_H := 80
-OF_SCREEN_H := 2160
+OF_SCREEN_H := 2340
 OF_STATUS_INDENT_LEFT := 48
 OF_OPTIONS_LIST_NUM := 6
 
